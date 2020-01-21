@@ -15,4 +15,5 @@ if (ellipse.x>600) {
     Background(200,0,10);
 }
 ellipse.x=World.mouseX;
+drawSprites(); 
 }
